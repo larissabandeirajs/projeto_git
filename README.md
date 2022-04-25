@@ -10,6 +10,6 @@ git config --global user.email "Email aqui"
 ``` 
 
 
-´´´
+```
     Curso Entra21
-´´´
+```
