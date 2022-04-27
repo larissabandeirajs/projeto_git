@@ -14,8 +14,12 @@ git config --global user.email "Email aqui"
     Curso Entra21
 ```
 
-# Comandos básicos para enviar/trazer codigo entre o remoto e o local
+# Comandos básicos
 
+## Para Enviar e Trazer Codigo Entre O Remoto E O Local
+
+```
+```
 ```bash
 git push origin main # envia do local para o remoto 
 
