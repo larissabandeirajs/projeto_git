@@ -26,4 +26,8 @@ Nome do diretorio git
 
 git push -u origin main
 Enviando um arquivo
+
+git clone
+Clonar um repositorio
+
 ```
