@@ -27,7 +27,7 @@ git pull origin main # traz do remoto para o local
 ```
 
 # Logos
-![Imagem da logo do git](imagens/git.png)
+![Imagem da logo do git](Imagens/git.png)
 
 # Páginas
 [Scrum](scrum.md)
