@@ -18,8 +18,8 @@ git config --global user.email "Email aqui"
 
 ## Para Enviar e Trazer Codigo Entre O Remoto E O Local
 
-```
-```
+ Comando abaixo para realização do procedimento:
+ 
 ```bash
 git push origin main # envia do local para o remoto 
 
